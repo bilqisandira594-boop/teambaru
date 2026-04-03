@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "teambaru",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "43ce36a9-921e-4e34-817b-6cb14c29239d",
+			"database_name": "teambaru"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
